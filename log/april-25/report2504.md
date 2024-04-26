@@ -1,4 +1,4 @@
-# 23 April 2024
+# 25 April 2024
 ## What did I do before
 - deploy token
 - write some function
