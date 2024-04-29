@@ -7,8 +7,12 @@
 
 ## What did I do today
 - API
-    - add docts
+    - burn
+    - burn taget
+    - add docs
     - refactor struc project
+    - approve
+    - move point
     
 ## What problem do I have
 - tranferFrom API
