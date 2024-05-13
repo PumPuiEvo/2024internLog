@@ -6,5 +6,5 @@
 - redirect to dinamic inappwebview
 
 ## What problem do I have
-
+- video player type
 
