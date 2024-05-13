@@ -6,4 +6,7 @@
 - unit test earnpool contract
 
 ## What problem do I have
+- deposit
+- date now
+- refcode? encode? ไปด้วยเลย
 
