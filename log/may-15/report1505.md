@@ -1,4 +1,4 @@
-# 14 may 2024
+# 15 may 2024
 ## What did I do before
 - video paly trough https
 - creat mockup
