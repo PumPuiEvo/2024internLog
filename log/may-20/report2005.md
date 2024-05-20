@@ -7,6 +7,7 @@
 
 ## What did I do today
 - progress line sync with animation
+- if load unfinish load loop
 
 ## What problem do I have
 - set sate all the time to  sync (fix with custom animation)
