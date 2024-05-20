@@ -5,7 +5,10 @@
 - user balance format ether
 
 ## What did I do today
-
+- AspectRatio
+- fix earn and earn with ref
+- progress line
+- กดตรงไหนก็ได้ สต๊อป
 
 ## What problem do I have
 
